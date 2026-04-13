@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Brojen+Gurung+%F0%9F%91%8B;Full+Stack+%26+AI%2FML+Developer;Building+NexusAI+%F0%9F%A4%96;From+Sikkim%2C+India+%F0%9F%8F%94%EF%B8%8F" alt="Typing SVG" />
+<img src="gif/broz-help.gif" width="400" alt="broz gif"/>
 
 <br/>
 
