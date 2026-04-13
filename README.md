@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gif/broz-help.gif" width="400" alt="broz gif"/>
+<img src="gif/broz-help.gif" width="100%" style="max-width: 400px;" alt="broz gif"/>
 
 </div>
 
