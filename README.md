@@ -17,7 +17,7 @@
 ## 🚀 What I'm Working On
 
 - 🤖 **[NexusAI](https://github.com/BrozG/nexusai-ml)** — Scalable B2B AI with Phi-2 + LoRA adapters + FAISS.
-- 📈 **[PitchIn](https://github.com/BrozG/Trading_Seeko)** — Funnel System App for both Investor and Founders.
+- 📈 **[PitchIn](https://github.com/BrozG/PitchIn)** — Funnel System App for both Investor and Founders.
 
 ---
 
